@@ -1,0 +1,31 @@
+{
+  "Tasks": [
+    {
+      "model_type": "vgg",
+      "number_of_epocs": "10",
+      "learning_rate": "0.001",
+      "batch_size": "32",
+      "loss": "categorical_crossentropy",
+      "metrics": "accuracy",
+      "optimizer": "adam"
+    },
+    {
+      "model_type": "alexnet",
+      "number_of_epocs": "10",
+      "learning_rate": "0.001",
+      "batch_size": "64",
+      "loss": "categorical_crossentropy",
+      "metrics": "accuracy",
+      "optimizer": "adam"
+    },
+    {
+      "model_type": "resnet",
+      "number_of_epocs": "10",
+      "learning_rate": "0.001",
+      "batch_size": "32",
+      "loss": "categorical_crossentropy",
+      "metrics": "accuracy",
+      "optimizer": "adam"
+    }
+  ]
+}
