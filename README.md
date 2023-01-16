@@ -69,7 +69,7 @@ mlflow ui
 Then copy the URL given into your browser of choice. (The default URL is http://localhost:5000)
 
 ## Credits
-A part of an academic project done under the supervision of Prof. Martin Dyrba
+A part of an academic project done under the supervision of Martin Dyrba
 
 ### Team members:
 Hazem Ibrahim  
